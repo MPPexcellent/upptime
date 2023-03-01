@@ -4,19 +4,19 @@
     "url": "https://mpp.one",
     "icon": "https://icons.duckduckgo.com/ip3/mpp.one.ico",
     "slug": "mp-pone-personal-site",
-    "status": "down",
-    "uptime": "84.98%",
-    "uptimeDay": "84.98%",
-    "uptimeWeek": "84.98%",
-    "uptimeMonth": "84.98%",
-    "uptimeYear": "84.98%",
-    "time": 573,
-    "timeDay": 573,
-    "timeWeek": 573,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "status": "up",
+    "uptime": "25.81%",
+    "uptimeDay": "25.81%",
+    "uptimeWeek": "25.81%",
+    "uptimeMonth": "25.81%",
+    "uptimeYear": "25.81%",
+    "time": 859,
+    "timeDay": 859,
+    "timeWeek": 859,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {
-      "2023-03-01": 2
+      "2023-03-01": 27
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/re3use.at.ico",
     "slug": "re3use",
     "status": "up",
-    "uptime": "90.03%",
-    "uptimeDay": "90.03%",
-    "uptimeWeek": "90.03%",
-    "uptimeMonth": "90.03%",
-    "uptimeYear": "90.03%",
+    "uptime": "26.91%",
+    "uptimeDay": "26.91%",
+    "uptimeWeek": "26.91%",
+    "uptimeMonth": "26.91%",
+    "uptimeYear": "26.91%",
     "time": 760,
     "timeDay": 760,
     "timeWeek": 760,
     "timeMonth": 760,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2023-03-01": 1
+      "2023-03-01": 27
     }
   },
   {
